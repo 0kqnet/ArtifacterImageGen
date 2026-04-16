@@ -1,3 +1,2 @@
-pydantic==1.10.11
 -e git+https://github.com/PaiGramTeam/EnkaNetwork.py.git#egg=enkanetwork.py
 pillow
